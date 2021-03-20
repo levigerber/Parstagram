@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 https://imgur.com/a/lNEi0uZ
-<img src='https://imgur.com/a/lNEi0uZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/wFDKDRCI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
